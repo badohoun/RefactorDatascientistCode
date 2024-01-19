@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/espoirbadohoun/RefactorDatascientistCode/mlruns/0/f7af46a9e9ad4db284f05428c5339244/artifacts
+end_time: 1705673743526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7af46a9e9ad4db284f05428c5339244
+run_name: redolent-snake-18
+run_uuid: f7af46a9e9ad4db284f05428c5339244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705673743483
+status: 4
+tags: []
+user_id: espoirbadohoun
