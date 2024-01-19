@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/espoirbadohoun/RefactorDatascientistCode/mlruns/0/7c2f30dfd9fb4b23bbdcedb303155dbf/artifacts
+end_time: 1705673774403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c2f30dfd9fb4b23bbdcedb303155dbf
+run_name: spiffy-fly-130
+run_uuid: 7c2f30dfd9fb4b23bbdcedb303155dbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705673772036
+status: 3
+tags: []
+user_id: espoirbadohoun

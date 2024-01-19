@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/espoirbadohoun/RefactorDatascientistCode/mlruns/0/ea9efeb245444150b6ebc63b06773367/artifacts
+end_time: 1705673686642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea9efeb245444150b6ebc63b06773367
+run_name: stylish-pig-972
+run_uuid: ea9efeb245444150b6ebc63b06773367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705673686607
+status: 4
+tags: []
+user_id: espoirbadohoun
